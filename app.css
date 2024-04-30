@@ -1,0 +1,87 @@
+body {
+    background-color: #f3e5d7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: "Outfit";
+    color: rgb(55, 55, 55);
+}
+
+.container {
+    background-color: white;
+    border-radius: 30px;
+    padding: 2em;
+    max-width: 768px;
+}
+
+h1 {
+    font-family: "Young Serif";
+    font-size: 3rem;
+}
+
+h2 {
+    font-family: "Young Serif";
+    color: rgb(115, 75, 0);
+}
+
+h3 {
+    font-family: "Outfit";
+    font-weight: 600;
+    color: purple;
+}
+
+.prep {
+    background-color: #fff8fc;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+}
+
+.image {
+    width: 100%;
+    border-radius: 0.5rem;
+}
+
+.ingredients {
+    border-bottom: solid rgb(216, 216, 216) 1px;
+}
+
+.instructions {
+    border-bottom: solid rgb(216, 216, 216) 1px;
+}
+
+span {
+    font-weight: bold;
+    color: rgb(82, 82, 82);
+}
+
+table {
+    width: 100%;
+}
+
+.rowStyle {
+    color: rgb(151, 98, 0);
+}
+
+td {
+    border-bottom: solid rgb(216, 216, 216) 1px;
+}
+
+li {
+    line-height: 2;
+}
+
+td.span {
+    color: rgb(255, 0, 0);
+}
+
+@media (max-width: 768px) {
+    body {
+        padding: 0;
+        margin: 0;
+    }
+
+    .container {
+        border-radius: 0;
+    }
+}
