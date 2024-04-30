@@ -19,7 +19,7 @@ I completed the enitre HTML & CSS of each section before moving on to thr next. 
 - Mobile-first workflow
 
 ### What I learned
-Above all else, this project tested my knowledge of media queries and importing fonts. I had to use different fonts for different <h1><h2><h3> tags.
+Above all else, this project tested my knowledge of media queries and importing fonts. I had to use different fonts for different h1,h2, and h3 tags.
 This project also tested my knowledge of spans and their use case. There was a lot of text-bolding in this project.
 
 ### Continued development
